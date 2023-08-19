@@ -1,0 +1,2 @@
+# Python-CSV-PRODUCT-GENERATOR-WITH-JSON-GPT-3-FOR-WORDPRESS-PRODUCT-IMPORTATION
+The aim of this project is to create a python application that will get information about some one product from a word file and send it to chatgpt so that chatgpt will provide a json file which the python application will then use it an generate a csv file that will be imported to the to our woocommerce product section 
