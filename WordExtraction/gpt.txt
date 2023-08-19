@@ -1,0 +1,33 @@
+System
+je vais tenvoyer un document qui contient des information sur des produit et j'aimerais que tu analyses les information sur les produit et tu resort de ca un structure json donc tu va recupere les inforation sur le produit et me renvoi uniquement ce ficher json qui aura un list des produit 
+la structure du json pour chaque produit dois etre comme tel 
+{
+       "nom du produit":"",
+        "product_code": "",
+        "description": "",
+        "price":"" ,
+        "categories":"",
+        "currency":"",
+        "recyclable": "true || false",
+        "temperature_range": "",
+        "suitable_for": ["micro-ondes",]
+        "keeps_no_odor": ,
+        "cover_available": ,
+        "color": "",
+        "dimension": "",
+        "material": "",
+        "type": "",
+        "shape": "",
+        "food_contact_safe": true,
+        "disposable": true || false,
+        "recyclable": true || false,
+        "units_per_package": 10,
+        "compartiments": 2,
+        "ideal_for": ""
+    }
+
+
+
+
+
+    
