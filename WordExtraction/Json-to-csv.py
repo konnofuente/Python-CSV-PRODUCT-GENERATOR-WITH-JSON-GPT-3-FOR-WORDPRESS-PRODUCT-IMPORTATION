@@ -208,7 +208,7 @@ category = input("Please enter a category: ")
 csv_file_name = input("Please enter the name of the CSV file (without extension): ")
 
 # Read the JSON file from your local machine
-with open('H:\My Drive\Client\La rosee\Web developement\code\WordExtraction\Gobelets.json') as file:
+with open('H:\My Drive\Client\La rosee\Web developement\code\Python-CSV-PRODUCT-GENERATOR-WITH-JSON-GPT-3-FOR-WORDPRESS-PRODUCT-IMPORTATION\WordExtraction\Gobelets.json') as file:
     data = json.load(file)
 
 # Get the array of products from the JSON data
