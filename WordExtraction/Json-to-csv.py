@@ -10,8 +10,9 @@ csv_file_name = input("Please enter the name of the CSV file (without extension)
 csv_dir = 'CSV'
 
 # Read the JSON file from your local machine
-with open('H:\My Drive\Client\La rosee\Web developement\code\Python-CSV-PRODUCT-GENERATOR-WITH-JSON-GPT-3-FOR-WORDPRESS-PRODUCT-IMPORTATION\WordExtraction\JSON\PiqueBrochette.json') as file:
+with open('D:\Computer_Science\Camairetech\Project\Python-CSV-PRODUCT-GENERATOR-WITH-JSON-GPT-3-FOR-WORDPRESS-PRODUCT-IMPORTATION\WordExtraction\JSON\Pailles.json') as file:
     data = json.load(file)
+
 
 # Get the array of products from the JSON data
 products = data
